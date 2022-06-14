@@ -96,7 +96,7 @@ mark {
     background: var(--primary-color);
 }
 
-@media (max-width: 650px) {
+/* @media (max-width: 650px) {
     h1 {
         font-size: 12vw;
     }
@@ -142,4 +142,4 @@ mark {
     #main-content article figure {
         width: 60%;
     }
-}
+} */
