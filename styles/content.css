@@ -13,12 +13,16 @@
     line-height: 1.6;
 }
 
+
+
 #main-content article figure {
     width: 80%;
     margin: 1.5em auto;
     border: 1px solid var(--color-grey);
     padding: 0.8em;
 }
+
+
 
 #main-content article img {
     width: 100%;
